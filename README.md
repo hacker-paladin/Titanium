@@ -1,2 +1,2 @@
 # Titanium
-A list of every porn site known to man, for in and to create blockers.
+A list of every porn site known to man, for use and to create blockers.
