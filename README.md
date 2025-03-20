@@ -1,5 +1,5 @@
 # Titanium
-A list of every porn site known to man, for use and to create blockers.
+A list of every porn site known to man, for use in and to create blockers.
 
 ## Why?
 There are existing lists that were built to do what this one does, but they're often outdated and don't block newer sites, or contain hundreds of sites that don't exist anymore, needlessly increasing the size of the list.
